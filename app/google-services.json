@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "741044285614",
+    "firebase_url": "https://firstregistrationapp.firebaseio.com",
+    "project_id": "firstregistrationapp",
+    "storage_bucket": "firstregistrationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741044285614:android:cd2ef345b7137aee92bd3f",
+        "android_client_info": {
+          "package_name": "com.company.registrationform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741044285614-lesaesue7lf2iuqi6m4i19caoq9g01dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT96FCNsaM37fducUID1OqZ0IrDISWvU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741044285614-lesaesue7lf2iuqi6m4i19caoq9g01dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741044285614:android:ff4fdc0f895fcf5692bd3f",
+        "android_client_info": {
+          "package_name": "ge.edu.btu.firebasehmwrk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741044285614-9n6esukrm4mfvplqmo2b6qvi9b51hf69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.edu.btu.firebasehmwrk",
+            "certificate_hash": "6ecc73cc7b008a4f1e1f63c1f4b9ebf63843d73d"
+          }
+        },
+        {
+          "client_id": "741044285614-lesaesue7lf2iuqi6m4i19caoq9g01dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT96FCNsaM37fducUID1OqZ0IrDISWvU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741044285614-lesaesue7lf2iuqi6m4i19caoq9g01dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741044285614:android:9bfa1a7a08a62abc92bd3f",
+        "android_client_info": {
+          "package_name": "ge.edu.btu.firstauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741044285614-6sgkdrh0n42g1n5a04t6s60nurrvap9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.edu.btu.firstauth",
+            "certificate_hash": "18090a504c061afff26c2fc198408bae17c27e6b"
+          }
+        },
+        {
+          "client_id": "741044285614-lesaesue7lf2iuqi6m4i19caoq9g01dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT96FCNsaM37fducUID1OqZ0IrDISWvU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741044285614-lesaesue7lf2iuqi6m4i19caoq9g01dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
